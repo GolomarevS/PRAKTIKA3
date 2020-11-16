@@ -1,0 +1,15 @@
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.csprojAssemblyReference.cache
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\MainWindow.g.cs
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\App.g.cs
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3_MarkupCompile.cache
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3_MarkupCompile.lref
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\bin\Debug\PRAKTIKA3.exe.config
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\bin\Debug\PRAKTIKA3.exe
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\bin\Debug\PRAKTIKA3.pdb
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\MainWindow.baml
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.g.resources
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.Properties.Resources.resources
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.csproj.GenerateResource.cache
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.csproj.CoreCompileInputs.cache
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.exe
+C:\Users\Борис\Desktop\PR3\PRAKTIKA3\PRAKTIKA3\obj\Debug\PRAKTIKA3.pdb

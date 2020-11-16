@@ -5,8 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PRAKTIKA3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="327" Width="503">
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="76588.jpg"
+                AlignmentY="Top" AlignmentX="Center" Opacity="0.85"/>
+        </Grid.Background>
+        <TextBlock Text="Проверка слова на палиндром" Foreground="BlueViolet" Margin="88,31,92,233" FontSize="20" FontWeight="Bold" TextDecorations="{x:Null}" >
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <Label Content="Введите слово" Foreground="AliceBlue" HorizontalAlignment="Left" Margin="54,92,0,0" VerticalAlignment="Top" FontSize="15">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <TextBox Name="Stroka" HorizontalAlignment="Left" Margin="191,95,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Height="30" FontSize="18"/>
+        <Button Click="Вычислить_Click" Content="Проверка" Name="Вычислить" HorizontalAlignment="Left" Margin="160,160,0,0" VerticalAlignment="Top" Height="43" Width="167"  FontSize="14"/>
+        <TextBox Name="Otvet" HorizontalAlignment="Left" Margin="68,228,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" Height="38" FontSize="18"/>
     </Grid>
 </Window>

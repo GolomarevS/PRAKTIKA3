@@ -24,9 +24,9 @@ namespace PRAKTIKA3
         {
             InitializeComponent();
         }
-        private void AAA(object sender, RoutedEventArgs e)
+        private void Вычислить_Click(object sender, RoutedEventArgs e)
         {
-            string x = Convert.ToString(AAA); /// Ввод слова
+            string x = Convert.ToString(Stroka.Text); /// Ввод слова
             x.ToLower();
             string y = x.ToLower();
             string xx = "";
@@ -36,10 +36,10 @@ namespace PRAKTIKA3
             }
             if (y == xx)
             {
-                AAA = Convert.ToString(" Слово является палиндром"); /// Вывод
+                Otvet.Text = Convert.ToString(" Слово является палиндром"); /// Вывод
             }
             else
-                AAA = Convert.ToString(" Слово не является палиндром"); /// Вывод
+                Otvet.Text = Convert.ToString(" Слово не является палиндром"); /// Вывод
         }
     }
 }
